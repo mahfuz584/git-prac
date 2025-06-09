@@ -10,6 +10,7 @@ const CallbackPractice = () => {
     <div className="flex flex-col items-center justify-center h-screen">
       <h1>{count}</h1>
       <button onClick={increment}>Increment</button>
+      testing useCallback
     </div>
   );
 };
