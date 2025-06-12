@@ -1,5 +1,5 @@
-const practice2 = () => {
-  return <div>practice2 tracking</div>;
+const Practice2 = () => {
+  return <div>Practice2 tracking</div>;
 };
 
-export default practice2;
+export default Practice2;
